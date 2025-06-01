@@ -48,6 +48,7 @@
 3. Остановка и удаление контейнера:
    - Как остановить контейнер vita_nginx?
    - Как удалить остановленный контейнер vita_nginx?
+   
   ![5](https://github.com/user-attachments/assets/64ca62a1-33fc-4d9b-82e0-b12c7b5bc647)
   ![6](https://github.com/user-attachments/assets/609844e7-4d7e-4589-8d6b-b3256e4109df)
 
