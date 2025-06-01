@@ -28,7 +28,7 @@ services:
       - ./:/app
     networks:
       - vita
-    # Команда, поддерживающая контейнер активным
+
     command: ["tail", "-f", "/dev/null"]
 
   postgres_db:
